@@ -6,4 +6,8 @@ Por enquanto, possui apenas as cores laranja, vermelho, azul e preto. É possív
 
 Além disso, permite refazer e desfazer os desenhos feitos.
 
+![paintInicial](https://github.com/JoaoVictor55/projeto_paint/assets/89023069/6e97efcd-3ac3-4f86-81e4-2576e92c6ba6)
+
+
+
 Para rodar, execute o arquivo PaintFrame.java
